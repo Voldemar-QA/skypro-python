@@ -27,3 +27,9 @@
 2. Список объектов: lesson_2_task_2.py, smartphone.py
 3. Вложенные классы: lesson_2_task_3.py, address.py, mailing.py
 4. Нарисовать картинку: lesson_2_task_4.py, lion-python-turtle.jpg
+
+## Урок 4. Знакомство с Pytest
+1. string_utils.py - утилита на проверку
+2. string_utils.py - тесты для проверки утилиты
+3. pytest.ini - конфигурационный файл для тестов
+4. defects.txt - выявленные дефекты в утилите
