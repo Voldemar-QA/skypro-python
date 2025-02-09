@@ -38,3 +38,8 @@
 1. aviasales-locators.txt - Задание 1, локаторы
 2. ozon-locators.txt - Задание 2, локаторы
 3. scripts.py - Задания 3-8, скрипты с автоматизированными UI-тестами
+
+## Урок 6. Расширенные практики Selenium
+1. Нажатие на кнопку: lesson_6_task_1_click_btn.py
+2. Переименовать кнопку: lesson_6_task_2_rename_btn.py
+3. Дождаться картинки: lesson_6_task_3_wait_pic.py
