@@ -43,3 +43,8 @@
 1. Нажатие на кнопку: lesson_6_task_1_click_btn.py
 2. Переименовать кнопку: lesson_6_task_2_rename_btn.py
 3. Дождаться картинки: lesson_6_task_3_wait_pic.py
+
+## Урок 7. Контрольная работа
+1. Автотест на заполнение формы: test1_form.py
+2. Автотест на калькулятор: test2_calculator.py
+3. Автотест на интернет-магазин: test3_online_shop.py
