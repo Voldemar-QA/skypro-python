@@ -48,3 +48,8 @@
 1. Автотест на заполнение формы: test1_form.py
 2. Автотест на калькулятор: test2_calculator.py
 3. Автотест на интернет-магазин: test3_online_shop.py
+
+## Урок 8. Page Object
+1. Автотест на заполнение формы: 1_form_test.py
+2. Автотест на калькулятор: 2_calculator_test.py
+3. Автотест на интернет-магазин: 3_online_shop_test.py
