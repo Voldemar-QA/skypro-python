@@ -53,3 +53,9 @@
 1. Автотест на заполнение формы: 1_form_test.py
 2. Автотест на калькулятор: 2_calculator_test.py
 3. Автотест на интернет-магазин: 3_online_shop_test.py
+
+## Урок 9. Requests Library
+1. Класс с методами обновленного приложения x-clients: employee_api.py
+2. Автотесты на методы: test_employee.py
+3. Класс с методами для работы с задачами в сервисе todo-list: todo_api.py
+4. Автотесты на методы: test_todo.py
